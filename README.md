@@ -6,20 +6,26 @@
 
 **Key Results:**
 
-### Key Results:
+*Visuals:*
 
-## Visuals:
-
-### Blood Pressure:
-- Both smokers and non-smokers show a slight upward trend in blood pressure (BP) with age.
+ Blood Pressure:
+- Both smokers and non-smokers show an upward trend in blood pressure (BP) with age.
 - Non-smokers generally exhibit greater variability in BP compared to smokers.
 
-### Cholesterol:
+ Cholesterol:
 - Non-smokers show greater variability in cholesterol levels compared to smokers.
 
-### Heart Rate:
+ Heart Rate:
 - Females have a higher average heart rate than males across all smoking statuses and risk groups.
 - Smokers, both male and female, tend to have slightly higher heart rates than non-smokers within the same risk group.
 
+**Conclusion:**
+
+- We identified interesting patterns in smoking behaviors and cardiovascular health.
+- Our results align with existing literature, showing a causal relationship between smoking and higher resting heart rates.
+- There was no clear correlation between the number of cigarettes smoked per day and resting heart rate.
+- The relationship between smoking and cardiovascular health appears more complex than initially thought.
+- Additional data on lifestyle choices and healthcare habits is needed for more accurate correlations.
+- Next steps involve refining risk models and conducting further statistical analysis.
 
 
